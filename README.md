@@ -1,5 +1,5 @@
 <p align="center"><img src="https://64.media.tumblr.com/be3e132a850d6ca29a46f9106963c544/c8f93d60cbf5d3c8-68/s1280x1920/782961879b422ddfdfd1a06d093989d9a8504c99.gifv" width="800">
-<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nthrfejdrl5ztsoldu5q2cncju&cover_image=true&theme=novatorem&show_offline=true&background_color=#ffffff&interchange=false&bar_color_cover=true&bar_color=53b14f" width="300">
+<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nthrfejdrl5ztsoldu5q2cncju&cover_image=true&theme=novatorem&show_offline=true&background_color=#ffffff&interchange=false&bar_color_cover=true&bar_color=#ffffff" width="300">
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jekosian&&label=୨୧-Specs&color=898989" width="100">
 <p align="center"><img src="https://64.media.tumblr.com/a02a46cd2c5a06239d28e2240c7357b7/702593c586c979ba-fc/s640x960/044447da96a6dc5cfb705ce493eb1b11bd1a482e.gifv" width="600">
 <p align="center"><img src="https://64.media.tumblr.com/c1ea32014dab7ac4285c046948773df0/757c5b8333a4bca2-0e/s500x750/c8738ae459a6501f63c29168343fbf936f5c1be5.pnj" width="50" <p align="center">Odin ⊰ Jekyll ⊰ Osian<img src="https://64.media.tumblr.com/4937a6505520ece46624fdde21c80dac/3ea1ca24f134aabb-37/s640x960/31c2c80409ccea639a833af6b69acbb9ed969cf3.pnj" width="50"
